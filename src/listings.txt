@@ -20194,3 +20194,4 @@
 {"title":"Samsung - NX100 - Compact à objectifs interchangeables - 14,6 Mpix - Chocolat","manufacturer":"Samsung","currency":"EUR","price":"532.22"}
 {"title":"Olympus - Pen E-PL1 - Compact à objectifs interchangeables - Boîtier nu - 12,3 Mpix - Blanc","manufacturer":"Olympus","currency":"EUR","price":"422.00"}
 {"title":"Olympus - Pen E-PL1 - Compact à objectifs interchangeables - Boîtier nu - 12,3 Mpix - Blanc","manufacturer":"Olympus","currency":"EUR","price":"462.56"}
+{"title":"Minolta Dimage G500 5MP Digital Camera w/ 3x Optical Zoom","manufacturer":"Minolta","currency":"USD","price":"249.95"}
