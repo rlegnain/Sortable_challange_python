@@ -16,7 +16,6 @@ manufactur_list = products_dic.keys()
 listings_dic = functions.read_listings_file(Listings_file, manufactur_list)# {['KEY=MANUFACTURER': Val=TITLE] , .............}
 # listings_dic only contains the matched manufacturer from the Product list. In other words, it ignores the manufacturer that is not in the product list. this way we can reduce the search time.
 
-
 Result = defaultdict(list)
 for m in manufactur_list:
     title = listings_dic[m]
@@ -24,8 +23,8 @@ for m in manufactur_list:
     for L in title:
         for P in product:
             if functions.test_match(P,L):
-                Result[" ".join(P)].append(L)
-                 
+                #Result["".join(P[0])].append(L)
+                Result[P[0]].append(L)
 
 
 with open("Results.txt", "w") as f:

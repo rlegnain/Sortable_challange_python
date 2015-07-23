@@ -1,24 +1,24 @@
-{"product_name": "Samsung_ST5500  ST5500", "listing": ["ST5500 (14.2MP, 7x Optischer Zoom, Wi-Fi, Bluetooth)"]}
-{"product_name": "Olympus_mju_Tough_6020  mju Tough 6020", "listing": ["[mju:] Tough-6020 - Candy Pink"]}
-{"product_name": "Nikon_D300S  D300S", "listing": ["D300s+Tamron 18-270 mm VC", "D300s+Tamron 18-200 mm"]}
-{"product_name": "Olympus_FE-5010  FE-5010", "listing": ["FE-5010 schwarz, 12 MP, 5x opt. Zoom (entspr. KB 36-180 mm),", "FE-5010 schwarz, 12 MP, 5x opt. Zoom (entspr. KB 36-180 mm),"]}
-{"product_name": "Panasonic-DMC-S3 Lumix DMC-S3", "listing": ["DMC-S3 (Rouge, 14MP, Stabilisateur optique)", "DMC-S3 (Noir, 14MP, Stabilisateur optique)"]}
-{"product_name": "Olympus_mju_7000  mju 7000", "listing": ["\u00b5[mju:] 7000 schwarz"]}
-{"product_name": "Nikon_D5000  D5000", "listing": ["D5000 Digital SLR Camera Kit with 18-55mm VR Lens & 55-200mm VR Lens", "D5000+Tamron 18-270 mm VC", "D5000+Tamron 18-200 mm", "D5000+Tamron 17-50 mm VC"]}
-{"product_name": "Samsung_PL100  PL100", "listing": ["PL100 (Schwarz/Rot, 12.4MP, 3x Optischer Zoom, Kompakt)"]}
-{"product_name": "Samsung_ES15  ES15", "listing": ["ES15 Compact Digital Camera (Black)"]}
-{"product_name": "Olympus_FE-3000  FE-3000", "listing": ["FE-3000, Gold"]}
-{"product_name": "Olympus-T100  T100", "listing": ["T100 Series 12 MP 3X Black"]}
-{"product_name": "Nikon_D3000  D3000", "listing": ["D3000 DSLR Camera Two-Lens Outfit (18-55 VR & AF-S DX 55-200mm F/4-5.6G ED)", "D3000 Digital SLR Camera body only", "D3000+Tamron 18-200 mm", "D3000+Tamron 18-270 mm VC"]}
-{"product_name": "Samsung_PL10  PL10", "listing": ["PL100 (Schwarz/Rot, 12.4MP, 3x Optischer Zoom, Kompakt)"]}
-{"product_name": "Olympus-TG610  TG-610", "listing": ["TG-610 black; 14 MP; 4288 x 3216; 4x/5x; 5 - 25 mm; 1/2.3\" CCD; 0.0005 - 0.25 s; SD/SDHC/SDXC; MP4; JPG; 3\" LCD; USB 2.0; HDMI; 3.4 fps; 190 g (N4298092)", "TG-610 red; 14 MP; 4288 x 3216; 4x/5x; 5 - 25 mm; 1/2.3\" CCD; 0.0005 - 0.25 s; SD/SDHC/SDXC; MP4; JPG; 3\" LCD; USB 2.0; HDMI; 3.4 fps; 190 g (N4298192)", "TG-610 blue; 14 MP; 4288 x 3216; 4x/5x; 5 - 25 mm; 1/2.3\" CCD; 0.0005 - 0.25 s; SD/SDHC/SDXC; MP4; JPG; 3\" LCD; USB 2.0; HDMI; 3.4 fps; 190 g (N4298292)"]}
-{"product_name": "Samsung_ST550  ST550", "listing": ["ST5500 (14.2MP, 7x Optischer Zoom, Wi-Fi, Bluetooth)"]}
-{"product_name": "Olympus_Stylus_Tough_6020 Stylus Tough 6020", "listing": ["\u00b5 Tough-6020 (Black, 14MP, Wide-angle, Zoom 5x)", "\u00b5 Tough-6020 (Black, 14MP, Wide-angle, Zoom 5x)", "\u00b5 Tough-6020 (Blau, 14.5MP, Weitwinkel, 3.6x Zoom)", "\u00b5 Tough-6020 (Blau, 14.5MP, Weitwinkel, 3.6x Zoom)"]}
-{"product_name": "Olympus_FE-5050  FE-5050", "listing": ["FE-5050 IX CHAMPAGNER 5-FACH WIDE ZOOM LCD DIGITAL"]}
-{"product_name": "Fujifilm-Z90 FinePix Z90", "listing": ["Z90 Black Bundle", "Z90 Black Bundle"]}
-{"product_name": "Panasonic-TZ18 Lumix DMC-TZ18", "listing": ["DMC-TZ18 Digital Camera (Silver)"]}
-{"product_name": "Samsung-ES17  ES17", "listing": ["ES17 schwarz inkl. Batterien", "ES17 schwarz inkl. Batterien"]}
-{"product_name": "Sony_Alpha_NEX-5 Alpha NEX-5", "listing": ["NEX5KS - Interchangeable lens digital camera + E18-55mm F3.5-5.6 zoom lens (SEL-1855); 14.2MP (4592 x 3056); Exmor APS HD CMOS; 3\" TruBlack LCD; MS Pro Duo; MS Pro HG-Duo; SD; SDHC; SDXC; USB2.0; HDMI; JPEG; 229g; silver (NEX5KS.CEH)", "NEX5KB - Interchangeable lens digital camera + E18-55mm F3.5-5.6 zoom lens (SEL-1855); 14.2MP (4592 x 3056); Exmor APS HD CMOS; 3\" TruBlack LCD; MS Pro Duo; MS Pro HG-Duo; SD; SDHC; SDXC; USB2.0; HDMI; JPEG; 229g; black (NEX5KB.CEH)"]}
-{"product_name": "Olympus_FE-5020  FE-5020", "listing": ["FE-5020 - Mocca Brown", "FE-5020 - Mocca Brown", "FE-5020 ocean blue"]}
-{"product_name": "Olympus-TG310  TG310", "listing": ["TG-310 silver; 14 MP; 4288 x 3216; 4x/3.6x; 5.0 - 18.2 mm; 1/2.3\" CCD; 0.0005 - 0.25 s; SD/SDHC/SDXC; MP4; JPG; 2.7\" LCD; USB 2.0; HDMI; 5.9 fps; 155 g (N4294692)", "TG-310 orange; 14 MP; 4288 x 3216; 4x/3.6x; 5.0 - 18.2 mm; 1/2.3\" CCD; 0.0005 - 0.25 s; SD/SDHC/SDXC; MP4; JPG; 2.7\" LCD; USB 2.0; HDMI; 5.9 fps; 155 g (N4295092)"]}
-{"product_name": "Nikon_D3100  D3100", "listing": ["D3100 + 18-55 VR (18-55, SB-400, Lowepro FastPack,Filter 52mm,8GB SD)"]}
+{"product_name": "Nikon_D3100", "listing": ["D3100 + 18-55 VR (18-55, SB-400, Lowepro FastPack,Filter 52mm,8GB SD)"]}
+{"product_name": "Olympus_Stylus_Tough_6020", "listing": ["\u00b5 Tough-6020 (Black, 14MP, Wide-angle, Zoom 5x)", "\u00b5 Tough-6020 (Black, 14MP, Wide-angle, Zoom 5x)", "\u00b5 Tough-6020 (Blau, 14.5MP, Weitwinkel, 3.6x Zoom)", "\u00b5 Tough-6020 (Blau, 14.5MP, Weitwinkel, 3.6x Zoom)"]}
+{"product_name": "Nikon_D5000", "listing": ["D5000 Digital SLR Camera Kit with 18-55mm VR Lens & 55-200mm VR Lens", "D5000+Tamron 18-270 mm VC", "D5000+Tamron 18-200 mm", "D5000+Tamron 17-50 mm VC"]}
+{"product_name": "Samsung_ST5500", "listing": ["ST5500 (14.2MP, 7x Optischer Zoom, Wi-Fi, Bluetooth)"]}
+{"product_name": "Olympus_mju_7000", "listing": ["\u00b5[mju:] 7000 schwarz"]}
+{"product_name": "Samsung_ES15", "listing": ["ES15 Compact Digital Camera (Black)"]}
+{"product_name": "Olympus_FE-5050", "listing": ["FE-5050 IX CHAMPAGNER 5-FACH WIDE ZOOM LCD DIGITAL"]}
+{"product_name": "Nikon_D300S", "listing": ["D300s+Tamron 18-270 mm VC", "D300s+Tamron 18-200 mm"]}
+{"product_name": "Olympus_FE-5010", "listing": ["FE-5010 schwarz, 12 MP, 5x opt. Zoom (entspr. KB 36-180 mm),", "FE-5010 schwarz, 12 MP, 5x opt. Zoom (entspr. KB 36-180 mm),"]}
+{"product_name": "Olympus-T100", "listing": ["T100 Series 12 MP 3X Black"]}
+{"product_name": "Samsung_PL10", "listing": ["PL100 (Schwarz/Rot, 12.4MP, 3x Optischer Zoom, Kompakt)"]}
+{"product_name": "Olympus-TG310", "listing": ["TG-310 silver; 14 MP; 4288 x 3216; 4x/3.6x; 5.0 - 18.2 mm; 1/2.3\" CCD; 0.0005 - 0.25 s; SD/SDHC/SDXC; MP4; JPG; 2.7\" LCD; USB 2.0; HDMI; 5.9 fps; 155 g (N4294692)", "TG-310 orange; 14 MP; 4288 x 3216; 4x/3.6x; 5.0 - 18.2 mm; 1/2.3\" CCD; 0.0005 - 0.25 s; SD/SDHC/SDXC; MP4; JPG; 2.7\" LCD; USB 2.0; HDMI; 5.9 fps; 155 g (N4295092)"]}
+{"product_name": "Samsung_ST550", "listing": ["ST5500 (14.2MP, 7x Optischer Zoom, Wi-Fi, Bluetooth)"]}
+{"product_name": "Olympus_FE-3000", "listing": ["FE-3000, Gold"]}
+{"product_name": "Panasonic-DMC-S3", "listing": ["DMC-S3 (Rouge, 14MP, Stabilisateur optique)", "DMC-S3 (Noir, 14MP, Stabilisateur optique)"]}
+{"product_name": "Panasonic-TZ18", "listing": ["DMC-TZ18 Digital Camera (Silver)"]}
+{"product_name": "Samsung-ES17", "listing": ["ES17 schwarz inkl. Batterien", "ES17 schwarz inkl. Batterien"]}
+{"product_name": "Fujifilm-Z90", "listing": ["Z90 Black Bundle", "Z90 Black Bundle"]}
+{"product_name": "Olympus_mju_Tough_6020", "listing": ["[mju:] Tough-6020 - Candy Pink"]}
+{"product_name": "Sony_Alpha_NEX-5", "listing": ["NEX5KS - Interchangeable lens digital camera + E18-55mm F3.5-5.6 zoom lens (SEL-1855); 14.2MP (4592 x 3056); Exmor APS HD CMOS; 3\" TruBlack LCD; MS Pro Duo; MS Pro HG-Duo; SD; SDHC; SDXC; USB2.0; HDMI; JPEG; 229g; silver (NEX5KS.CEH)", "NEX5KB - Interchangeable lens digital camera + E18-55mm F3.5-5.6 zoom lens (SEL-1855); 14.2MP (4592 x 3056); Exmor APS HD CMOS; 3\" TruBlack LCD; MS Pro Duo; MS Pro HG-Duo; SD; SDHC; SDXC; USB2.0; HDMI; JPEG; 229g; black (NEX5KB.CEH)"]}
+{"product_name": "Samsung_PL100", "listing": ["PL100 (Schwarz/Rot, 12.4MP, 3x Optischer Zoom, Kompakt)"]}
+{"product_name": "Olympus_FE-5020", "listing": ["FE-5020 - Mocca Brown", "FE-5020 - Mocca Brown", "FE-5020 ocean blue"]}
+{"product_name": "Olympus-TG610", "listing": ["TG-610 black; 14 MP; 4288 x 3216; 4x/5x; 5 - 25 mm; 1/2.3\" CCD; 0.0005 - 0.25 s; SD/SDHC/SDXC; MP4; JPG; 3\" LCD; USB 2.0; HDMI; 3.4 fps; 190 g (N4298092)", "TG-610 red; 14 MP; 4288 x 3216; 4x/5x; 5 - 25 mm; 1/2.3\" CCD; 0.0005 - 0.25 s; SD/SDHC/SDXC; MP4; JPG; 3\" LCD; USB 2.0; HDMI; 3.4 fps; 190 g (N4298192)", "TG-610 blue; 14 MP; 4288 x 3216; 4x/5x; 5 - 25 mm; 1/2.3\" CCD; 0.0005 - 0.25 s; SD/SDHC/SDXC; MP4; JPG; 3\" LCD; USB 2.0; HDMI; 3.4 fps; 190 g (N4298292)"]}
+{"product_name": "Nikon_D3000", "listing": ["D3000 DSLR Camera Two-Lens Outfit (18-55 VR & AF-S DX 55-200mm F/4-5.6G ED)", "D3000 Digital SLR Camera body only", "D3000+Tamron 18-200 mm", "D3000+Tamron 18-270 mm VC"]}
