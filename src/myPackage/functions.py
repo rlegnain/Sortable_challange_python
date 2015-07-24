@@ -44,6 +44,7 @@ def match_manufactuer(Prod, Listing):
     y = Listing.lower().split()
     if [ m for m in y if m in x ]:
         return True
+        exit()
     else:
         return False
     
@@ -54,7 +55,7 @@ def test_match(P, L):
     model = re.sub(r'[^\w]', '', P[-1]).lower() #P[-1].lower().replace('-','').split()
     #family = P[1].lower().split()   
     #if [m for m in model if title.find(m) ==0]:
-    if title.find(model) ==0:
+    if title.find(model) !=-1:
         return True
     else:
-        return False        
+        return False
