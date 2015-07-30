@@ -32,8 +32,8 @@ print count_matching_product
 
 
 with open("Results.txt", "w") as f:
-    for prod, title in Result.iteritems():
-        x = {"product_name": prod , "listing":title}
+    for prod, titles in Result.iteritems():
+        x = {"product_name": prod , "listings.": [dict(title=m) for m in titles ]}
         json.dump(x, f)
         f.write('\n')
         #xx = json.dumps(x, ensure_ascii=False, encoding='utf8')
