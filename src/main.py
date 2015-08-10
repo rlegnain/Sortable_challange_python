@@ -1,7 +1,7 @@
 from myPackage import functions
 from collections import defaultdict
 import json
-
+from myPackage import classes
 
 Products_file = "products.txt"
 Listings_file = "listings.txt"
@@ -23,7 +23,7 @@ for m in manufactur_list:
     product = products_dic[m]
     for L in title:
         for P in product:
-            if functions.test_match(P,L):
+            if functions.test_match(P,L[0]):
                 #Result["".join(P[0])].append(L)
                 Result[P[0]].append(L)
                 count_matching_product += 1 
@@ -33,8 +33,8 @@ print count_matching_product
 
 with open("Results.txt", "w") as f:
     for prod, titles in Result.iteritems():
-        x = {"product_name": prod , "listings.": [dict(title=m) for m in titles ]}
+        x = {"product_name": prod,"listings": [dict(title=m[0], currency=m[1],  price=m[2]) for m in titles ]}
+        #x = classes.Result(prod, [dict(title=m[0], currency=m[1],  price=m[2]) for m in titles ])
+
         json.dump(x, f)
         f.write('\n')
-        #xx = json.dumps(x, ensure_ascii=False, encoding='utf8')
-        #f.write(xx)

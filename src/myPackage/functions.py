@@ -34,7 +34,9 @@ def read_listings_file(file_name, manufactur_list):
             for manuP in manufactur_list:
                 if match_manufactuer(manuP,x.manufacturer):
                     x.manufacturer = manuP
-                    listings_dic[x.manufacturer].append(x.title) 
+                    #listings_dic[x.manufacturer].append(x.title) 
+                    listings_dic[x.manufacturer].append([x.title, x.currency, x.price]) 
+
     return listings_dic
 
 # ===========================================================
